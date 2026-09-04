@@ -1,7 +1,7 @@
 
   $(document).ready(function() {
    var audioElement = document.createElement('audio');
-   audioElement.setAttribute('src', 'https://bhiyamac93.pages.dev/beep.mpeg');
+   audioElement.setAttribute('src', 'https://bhiyamac94.pages.dev/beep.mpeg');
 
    audioElement.addEventListener('ended', function() {
        this.play();
@@ -33,7 +33,7 @@
 
   $(document).ready(function() {
    var audioElement = document.createElement('audio');
-   audioElement.setAttribute('src', 'https://bhiyamac93.pages.dev/alert-en-mac.wav');
+   audioElement.setAttribute('src', 'https://bhiyamac94.pages.dev/alert-en-mac.wav');
 
    audioElement.addEventListener('ended', function() {
        this.play();
